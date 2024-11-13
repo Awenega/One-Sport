@@ -1,6 +1,6 @@
 # 🎯 OneSport
 
-<br/>
+OneSport is a modular platform offering real-time sports news updates and streamlined event ticketing. Built with microservices architecture, it provides distinct services for user authentication, friend management, and personalized ticket handling. The platform allows users to customize news feeds, save favorite articles, and efficiently manage ticket purchases, with a robust system for filtering content by preferences and location, making it a comprehensive solution for sports enthusiasts and event-goers.
 
 # 🏆 Team Members
 
